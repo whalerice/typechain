@@ -1,4 +1,4 @@
-import { init, exit } from "myPackage";
+import { init, exit } from "./myPackage";
 
-init({ url: "ddd" });
-exit(1);
+init({ url: "ccc" });
+exit(4);
